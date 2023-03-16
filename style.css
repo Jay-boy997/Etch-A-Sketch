@@ -1,0 +1,24 @@
+#root-div {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid black;
+}
+
+.white-pixels {
+    background-color: white;
+}
+
+.yellow-pixels {
+    background-color: rgb(255, 64, 0);
+}
+
+.input {
+    padding-bottom: 20px;
+}
+
+main {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
